@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+    <application name="MLG2ProIOLink">
+        <crown name="MLG2ProIOLink">
+            <desc>user script</desc>
+        </crown>
+        <meta key="author">AppSpace Sample</meta>
+        <meta key="version">2.5.0</meta>
+        <meta key="licensed">false</meta>
+        <meta key="priority">low</meta>
+        <meta key="copy-protected">false</meta>
+        <meta key="read-protected">false</meta>
+        <entry path="scripts" default="MLG2ProIOLink.lua">
+            <file type="text/x-lua">MLG2ProIOLink.lua</file>
+        </entry>
+    </application>
+</manifest>
