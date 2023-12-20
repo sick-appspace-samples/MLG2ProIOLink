@@ -24,4 +24,4 @@ device MLG-2 Pro for further IO-Link specific description and device specific co
 
 ### Topics
 
-Remote-Device, Communication, Acquisition, Sample, SICK-AppSpace
+remote-device, communication, acquisition, sample, sick-appspace
